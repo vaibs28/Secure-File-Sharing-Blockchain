@@ -41,3 +41,21 @@ Prototype to store files on IPFS and Ethereum Blockchain.
    npm start.  
 
 7) Enable CORS from the Chrome Extension 
+
+Screenshots   
+
+
+![](https://github.com/vaibs28/SecureFileSharingBlockchain/blob/master/img/s1.png).  
+
+
+![](https://github.com/vaibs28/SecureFileSharingBlockchain/blob/master/img/s2.png).  
+
+
+![](https://github.com/vaibs28/SecureFileSharingBlockchain/blob/master/img/s3.png).  
+
+
+
+![](https://github.com/vaibs28/SecureFileSharingBlockchain/blob/master/img/s4.png).  
+
+
+![](https://github.com/vaibs28/SecureFileSharingBlockchain/blob/master/img/s5.png).  
