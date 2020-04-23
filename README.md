@@ -43,7 +43,7 @@ Prototype to store files on IPFS and Ethereum Blockchain.
 7) Enable CORS from the Chrome Extension  
 
 Note: The implementation stores the addresses of the authorized accounts in smart contract as per the current Ganache accounts. So, the values would need to be updated as per the blockchain on which the application runs.
-
+ 
 
 Screenshots   
 
